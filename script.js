@@ -1,3 +1,3 @@
-console.log("Inicio do projeto")
-console.log(2 * 3)
+let soma = 34 + 4
+console.log(soma)
 console.log("testes unitarios")
